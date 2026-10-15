@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Arora</h1>
 <h3 align="center">Web3 🏆Winner — Story Protocol World Asset Buildathon ($5800) & Uniswap Hook Graduate (UHI7 Alumini) </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasaror&label=Profile%20views&color=0e75b6&style=flat" alt="tejasaror" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
